@@ -5,6 +5,8 @@
 2. 색상 분류: Red, Orange, Yellow, Green, Blue, Indigo, Violet (7가지)
   - Foreground
   - Background
+    
+
 
 
 | **기간** | 내용 | 비고 |
