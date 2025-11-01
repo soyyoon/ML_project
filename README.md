@@ -1,13 +1,13 @@
 # ML_project
 ## 2025-2 머신러닝 과목 프로젝트 주제: Colored MNIST Classification
-
 1. 숫자 분류: 0/1/2/.../9 (10가지)
 2. 색상 분류: Red, Orange, Yellow, Green, Blue, Indigo, Violet (7가지)
   - Foreground
   - Background
-    
 
-
+---
+### 타임라인
+25.11.01 데이터 생성 및 전처리 완료 (생성 코드는 다운 후 확인 가능)
 
 | **기간** | 내용 | 비고 |
 | --- | --- | --- |
